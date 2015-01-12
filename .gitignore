@@ -1,0 +1,16 @@
+# system files
+*~
+.DS_Store
+
+# bytecode
+*.py[cod]
+
+# build artifacts
+*.egg
+*.egg-info
+build
+dist
+sdist
+
+# testing artifacts
+nosetests.xml
